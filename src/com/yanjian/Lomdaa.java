@@ -17,6 +17,8 @@ public class Lomdaa {
 
       Lomda  ad=() ->{
            System.out.println("123");
+          System.out.println("dev");
+          System.out.println("dev1");
        };
         ad.say();
         System.out.println(ad.div(4,2));
